@@ -18,6 +18,11 @@ O layout foi pensado para proporcionar uma experiência fluida e objetiva ao usu
 
 O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/BxfNMvt61m8vR3Jv1HLj0x/Conversor-de-Moedas--Community---Copy-?node-id=0-1&p=f&t=4NXZdALoeJ2WzH7b-0>)
 
+<p align="center">
+  <img alt="" src=".github/img/Default.png" width="400">  
+  <img alt="" src=".github/img/Result.png" width="400">  
+</p>
+
 ## 🛠 Tecnologias
 
 <p align="justify">Este projeto utiliza um conjunto de tecnologias modernas para garantir uma aplicação eficiente e escalável, incluindo:</p>
