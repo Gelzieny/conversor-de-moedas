@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Este projeto apresenta o design de um Conversor de Moedas desenvolvido no Figma. A proposta é oferecer uma interface limpa, intuitiva e responsiva para facilitar a conversão entre diferentes moedas de forma rápida e prática.
+Este projeto faz parte de uma etapa prática de aprendizagem, onde unimos HTML, CSS e JavaScript para criar uma aplicação funcional: um Conversor de Moedas. A ideia é aplicar de forma integrada os conhecimentos adquiridos, desenvolvendo juntos uma solução simples e útil, com foco em manipulação de dados e interatividade.
 
 📌 Sobre o Projeto
 
