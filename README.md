@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    🔗 <img src="https://raw.githubusercontent.com/Gelzieny/conversor-de-moedas/25244b0bc0d859a571349d57701a60abfb5eebda/assets/logo.svg"  alt="Logo conversor de moedas" />
+    🔗 <img src="https://raw.githubusercontent.com/Gelzieny/conversor-de-moedas/25244b0bc0d859a571349d57701a60abfb5eebda/assets/logo.svg"  alt="Logo conversor de moedas" width="400px"/>
   </a>
 </p>
 
